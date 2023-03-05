@@ -15,6 +15,46 @@
       "category": "Alimentação",
       "price": 50,
       "createdAt": "Wed Oct 10 2022 18:48:00 GMT+0200 (CEST)"
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "type": "income",
+      "category": "Dev",
+      "price": 20,
+      "createdAt": "2023-03-05T01:19:56.430Z",
+      "id": 3
+    },
+    {
+      "description": "Pastel",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 5,
+      "createdAt": "2023-03-05T03:00:22.047Z",
+      "id": 4
+    },
+    {
+      "description": "Sorvete",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 30,
+      "createdAt": "2023-03-05T03:00:47.172Z",
+      "id": 5
+    },
+    {
+      "description": "Chocolates",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 25,
+      "createdAt": "2023-03-05T03:01:10.294Z",
+      "id": 6
+    },
+    {
+      "description": "Bolo",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 14,
+      "createdAt": "2023-03-05T03:01:41.264Z",
+      "id": 7
     }
   ]
 }
